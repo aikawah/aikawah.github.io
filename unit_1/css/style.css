@@ -1,5 +1,6 @@
-body {background-color: black;
+body {background-color: pink; 
+	align-content: center;
 }
 h1, p {
-	color: gold;
+	color: red;
 }
