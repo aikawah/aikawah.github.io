@@ -23,6 +23,7 @@ ul{
 li
 img
 #slogan{
+	font-family: sans-serif;
 	font-style: italic;
 	font-size: 24px
 }
