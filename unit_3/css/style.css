@@ -16,7 +16,10 @@ p{
 hr{
 	width: 200px;
 }
-ul
+ul{
+	text-align: center;
+	list-style-type: none;
+}
 li
 img
 #slogan{
