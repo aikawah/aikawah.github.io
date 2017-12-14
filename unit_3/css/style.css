@@ -11,9 +11,13 @@ h1{
 p{
 	font-size: 22px;
 }
+hr{
+	width: 200px;
+}
 ul
 li
 img
 #slogan{
 	font-style: italic;
+	font-size: 22px
 }
