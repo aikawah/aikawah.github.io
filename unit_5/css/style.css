@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway');
+@import url('https://fonts.googleapis.com/css?family=Abril+Fatface');
+
+body { text-align: center;
+		font-family: "Raleway", sans-serif;
+}
+
+hr { width: 200px; 
+}
+
+ul {list-style-type: none;
+}
+
+header {
+	background-color: #FFED74;
+	border: 1px black solid;
+	padding: 20px;
+	font-family: "Abril Fatface", cursive;
+	font-size: 22px;
+}
+nav {
+	background: #E8C66A;
+	border: 1px black solid;
+	padding: 20px;
+}
+aside {
+	background: #FFC675;
+	border: 1px black solid;
+	padding: 20px;
+}
+article {
+	background: #E89C6C;
+	border: 1px black solid;
+	padding: 20px;
+}
+footer {
+	background: #FF957E;
+	border: 1px black solid;
+	padding: 20px;
+}
+div, section {
+	background: #FFE2B8;
+	border: 1px black solid;
+	padding: 20px;
+}
